@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entreprise>
+  <employee id="1">
+    <name>Mael</name>
+    <age>19</age>
+    <address>Tarbes</address>
+  </employee>
+  <employee id="2">
+    <name>Mabou</name>
+    <age>23</age>
+    <address>Vendome</address>
+  </employee>
+</entreprise>
